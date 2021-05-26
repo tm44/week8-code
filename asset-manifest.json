@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/week8-code/static/css/main.0ed89898.chunk.css",
+    "main.js": "/week8-code/static/js/main.fef4a4d8.chunk.js",
+    "main.js.map": "/week8-code/static/js/main.fef4a4d8.chunk.js.map",
+    "runtime-main.js": "/week8-code/static/js/runtime-main.adecdfbe.js",
+    "runtime-main.js.map": "/week8-code/static/js/runtime-main.adecdfbe.js.map",
+    "static/js/2.0b52bc98.chunk.js": "/week8-code/static/js/2.0b52bc98.chunk.js",
+    "static/js/2.0b52bc98.chunk.js.map": "/week8-code/static/js/2.0b52bc98.chunk.js.map",
+    "static/js/3.a03e3aa2.chunk.js": "/week8-code/static/js/3.a03e3aa2.chunk.js",
+    "static/js/3.a03e3aa2.chunk.js.map": "/week8-code/static/js/3.a03e3aa2.chunk.js.map",
+    "index.html": "/week8-code/index.html",
+    "static/css/main.0ed89898.chunk.css.map": "/week8-code/static/css/main.0ed89898.chunk.css.map",
+    "static/js/2.0b52bc98.chunk.js.LICENSE.txt": "/week8-code/static/js/2.0b52bc98.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adecdfbe.js",
+    "static/js/2.0b52bc98.chunk.js",
+    "static/css/main.0ed89898.chunk.css",
+    "static/js/main.fef4a4d8.chunk.js"
+  ]
+}
